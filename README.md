@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm BlaqCosmos😎, in love ❤️ with theoretical physics ,currently focused on deep learning(Neural Network Architectures, Deep reinforcement learning, self supervised learning) and Augmented reality for low end devices .I dream of one day copying the human consciousness on a computer making humans immortal. Simulating Brains on a computer
+### <div align="center">I'm BlaqCosmos😎, in love ❤️ with theoretical physics ,currently focused on deep learning(Neural Network Architectures, Deep reinforcement learning, self supervised learning) and Augmented reality for low end devices .I dream of one day copying the human consciousness on a computer to make humans immortal. Simulating Brains on a computer
 </div>  
   
 
@@ -105,9 +105,7 @@
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<br/> 
 
 <br/>  
 
