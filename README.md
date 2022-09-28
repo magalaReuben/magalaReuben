@@ -16,7 +16,7 @@
 - ❓ Ask me about anything related to Python, C++  
   
 
-- ⚡ Fun fact: 🙁  
+- ⚡ Fun fact: Solves coding challenges in assembly  
   
 
 <br/>  
