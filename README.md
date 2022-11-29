@@ -1,8 +1,7 @@
 <div align="center">
+<img src="https://user-images.githubusercontent.com/84549817/204504063-ca51bb63-269f-48bc-a84e-d1d8b2aa065a.png" align="center" style=""/>
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
-
 ### <div align="center">I'm BlaqCosmos😎, in love ❤️ with theoretical physics ,currently focused on deep learning(Neural Network Architectures, Deep reinforcement learning, self supervised learning) and Augmented reality for low end devices .I dream of one day copying the human consciousness on a computer to make humans immortal. Simulating Brains on a computer
 </div>  
   
